@@ -43,3 +43,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/.idea/.name
+/.idea/IntelliLang.xml
+/.idea/codeStyles/
